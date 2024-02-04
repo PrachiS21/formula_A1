@@ -1,1 +1,1 @@
-The formula can be found in the image.
+The RSSI vs distance plot and formula can be found in the image.
